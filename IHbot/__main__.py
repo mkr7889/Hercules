@@ -19,7 +19,7 @@ from IHbot.modules.helper_funcs.chat_status import is_user_admin
 from IHbot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, my name is {}!
+Hello {}, my name is {Sakura}!
 
 I'm a group manager bot maintained by [this wonderful person](tg://user?id={}). I'm built in python3, using the \
 python-telegram-bot library \
@@ -27,9 +27,9 @@ python-telegram-bot library \
 
 You can find the list of available commands with /help.
 
-[Click here to add me in your groups](https://telegram.me/TheShinChan_Bot?startgroup=add)
+[Click here to add me in your groups](https://telegram.me/@Sukura_bot?startgroup=add)
 
-Free Hai Bro!
+ADD ME IF U LIKE!
 """
 
 HELP_STRINGS = """
